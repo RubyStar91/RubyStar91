@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruby Martinez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **databases**
+- 💬 Ask me about **pseint**
 
 - 📫 How to reach me **ruby.martinez.varga@gmail.com**
 
